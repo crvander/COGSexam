@@ -1,0 +1,51 @@
+---
+title: "COGS 137 - Fall 2021 - Midterm 01"
+author: "Unknown"
+date: "Due: Mon Oct 18, 2021 at 11:59 PM"
+output: html_document
+---
+
+## Academic Honesty Statement
+
+**THIS IS AN INDIVIDUAL ASSESSMENT, THIS DOCUMENT AND YOUR ANSWERS ARE FOR YOUR EYES ONLY. ANY VIOLATION OF THIS POLICY WILL BE ADDRESSED IMMEDIATELY.**
+
+*Replace the underscores below with your name acknowledging that you have read and understood the rules for this midterm.*
+
+I, ____________, hereby state that I have not communicated with or gained information in any way from my classmates or anyone during this exam, and that all work is my own.
+
+
+## Questions 
+
+### Question 1
+
+[Enter code and narrative here.]
+
+### Question 2
+
+[Enter code and narrative here.]
+
+### Question 3
+
+[Enter code and narrative here.]
+
+### Question 4
+
+[Enter code and narrative here.]
+
+### Question 5
+
+[Enter code and narrative here.]
+
+### Question 6
+
+[Enter code and narrative here.]
+
+### Question 7
+
+[Enter code and narrative here.]
+
+### Question 8
+
+[Enter narrative here.]
+
+
